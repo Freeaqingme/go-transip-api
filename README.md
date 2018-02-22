@@ -63,7 +63,7 @@ package main
 import (
 	"github.com/mpdroog/transip"
 	"github.com/Freeaqingme/go-transip-api/creds"
-    "github.com/Freeaqingme/go-transip-api/soap"
+        "github.com/Freeaqingme/go-transip-api/soap"
 	"fmt"
 )
 
