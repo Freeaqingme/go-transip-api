@@ -4,9 +4,9 @@ import (
 	"bytes"
 	"errors"
 	"fmt"
-	"github.com/mpdroog/transip/creds"
-	"github.com/mpdroog/transip/soap"
-	"github.com/mpdroog/transip/soap/signature"
+	"github.com/Freeaqingme/go-transip-api/creds"
+	"github.com/Freeaqingme/go-transip-api/soap"
+	"github.com/Freeaqingme/go-transip-api/soap/signature"
 	"strconv"
 )
 

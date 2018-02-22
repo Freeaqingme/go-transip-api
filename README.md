@@ -21,7 +21,7 @@ package main
 
 import (
 	"github.com/mpdroog/transip"
-	"github.com/mpdroog/transip/creds"
+	"github.com/Freeaqingme/go-transip-api/creds"
 	"fmt"
 )
 
@@ -62,8 +62,8 @@ package main
 
 import (
 	"github.com/mpdroog/transip"
-	"github.com/mpdroog/transip/creds"
-    "github.com/mpdroog/transip/soap"
+	"github.com/Freeaqingme/go-transip-api/creds"
+    "github.com/Freeaqingme/go-transip-api/soap"
 	"fmt"
 )
 
